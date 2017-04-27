@@ -13,6 +13,10 @@ Something >> change1 [
 ]
 
 { #category : #'as yet unclassified' }
+Something >> from2 [
+]
+
+{ #category : #'as yet unclassified' }
 Something >> outoforder [
 ]
 
