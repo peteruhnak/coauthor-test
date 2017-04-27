@@ -23,3 +23,7 @@ Something >> outoforder [
 { #category : #'as yet unclassified' }
 Something >> skip [
 ]
+
+{ #category : #'as yet unclassified' }
+Something >> skipqwe [
+]
