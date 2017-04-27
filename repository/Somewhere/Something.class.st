@@ -5,6 +5,10 @@ Class {
 }
 
 { #category : #'as yet unclassified' }
+Something >> afterOmmited [
+]
+
+{ #category : #'as yet unclassified' }
 Something >> change [
 ]
 
@@ -18,6 +22,10 @@ Something >> from2 [
 
 { #category : #'as yet unclassified' }
 Something >> outoforder [
+]
+
+{ #category : #'as yet unclassified' }
+Something >> outoforderwe [
 ]
 
 { #category : #'as yet unclassified' }
