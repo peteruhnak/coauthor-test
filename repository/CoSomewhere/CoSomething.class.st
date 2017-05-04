@@ -1,3 +1,6 @@
+"
+你好
+"
 Class {
 	#name : #CoSomething,
 	#superclass : #Object,
@@ -6,4 +9,9 @@ Class {
 
 { #category : #'as yet unclassified' }
 CoSomething >> change [
+]
+
+{ #category : #'as yet unclassified' }
+CoSomething >> unicode [
+	^ '彼得'
 ]
