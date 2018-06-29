@@ -12,6 +12,10 @@ CoSomething >> change [
 ]
 
 { #category : #'as yet unclassified' }
+CoSomething >> changeWithoutCommitDescription [
+]
+
+{ #category : #'as yet unclassified' }
 CoSomething >> unicode [
 	^ '彼得'
 ]
