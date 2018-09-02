@@ -9,6 +9,10 @@ Something >> afterOmmited [
 ]
 
 { #category : #'as yet unclassified' }
+Something >> anthorAuthor [
+]
+
+{ #category : #'as yet unclassified' }
 Something >> change [
 ]
 
